@@ -1,6 +1,7 @@
 # LeoVegas Sportsbook Turnover Forecasting Project
+- Nasir Uddin
 
-This repository contains three notebooks and their respective PDF reports focusing on sportsbook turnover prediction for LeoVegas. The project demonstrates data preprocessing, exploratory data analysis (EDA), advanced time series forecasting, and prediction reliability through conformal methods.
+This repository contains three notebooks and their respective PDF reports focusing on sportsbook turnover prediction for LeoVegas. The project demonstrates data preprocessing, exploratory data analysis (EDA), advanced time series forecasting, and prediction reliability through conformal methods. There will be more update in future.
 
 ## Project Files
 ### Notebooks
