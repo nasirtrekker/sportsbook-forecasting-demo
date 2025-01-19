@@ -1,0 +1,18 @@
+# Python-related files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environment
+sportsbookvenv/
+
+# Large files
+*.so
+*.jar
+*.dll
+*.bin
+
+../sportsbookvenv/
+*.so
+*.jar
