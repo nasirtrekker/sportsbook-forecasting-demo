@@ -61,7 +61,7 @@ Conformal uncertainty estimation for prediction intervals.
 ## Visualizations of Turnover Analysis
 
 ### 1. AutoARIMA SARIMA Residual Diagnostic Plot
-![AutoARIMA SARIMA Residual Diagnostic](plot_images/autoarima_sarima_residualDiagnosisplot.png)
+![AutoARIMA SARIMA Residual Diagnostic](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_images/autoarima_sarima_residualDiagnosisplot.png)
 
 ### 2. Conformal Prediction for Turnover (90% Confidence Interval)
 ![Conformal Prediction Turnover](plot_images/cp_mapie_turnofer_pi90.png)
