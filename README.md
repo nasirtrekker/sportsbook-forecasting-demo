@@ -70,7 +70,7 @@ Conformal uncertainty estimation for prediction intervals.
 ![Daily Turnover Aggregation](plot_images/daily_turnover_aggr.png)
 
 ### 4. Decomposition of Original Data
-![ETS Decomposition](plot_images/ETS_decom_originaldata.png)
+![ETS Decomposition](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/ETS_decom_originaldata.png)
 
 ### 5. Conformal Prediction on Time Series
 ![Conformal Prediction on Time Series](plot_images/timeseries_conformal_mapieNaive_turnover.png)
