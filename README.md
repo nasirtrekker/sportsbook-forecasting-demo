@@ -61,28 +61,28 @@ Conformal uncertainty estimation for prediction intervals.
 ## Visualizations of Turnover Analysis
 
 ### 1. AutoARIMA SARIMA Residual Diagnostic Plot
-![AutoARIMA SARIMA Residual Diagnostic](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_images/autoarima_sarima_residualDiagnosisplot.png)
+![AutoARIMA SARIMA Residual Diagnostic](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/autoarima_sarima_residualDiagnosisplot.png)
 
 ### 2. Conformal Prediction for Turnover (90% Confidence Interval)
-![Conformal Prediction Turnover](plot_images/cp_mapie_turnofer_pi90.png)
+![Conformal Prediction Turnover](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/cp_mapie_turnofer_pi90.png)
 
 ### 3. Daily Turnover Aggregation
-![Daily Turnover Aggregation](plot_images/daily_turnover_aggr.png)
+![Daily Turnover Aggregation]([plot_images/daily_turnover_aggr.png](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/daily_turnover_agrre.png))
 
 ### 4. Decomposition of Original Data
 ![ETS Decomposition](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/ETS_decom_originaldata.png)
 
 ### 5. Conformal Prediction on Time Series
-![Conformal Prediction on Time Series](plot_images/timeseries_conformal_mapieNaive_turnover.png)
+![Conformal Prediction on Time Series](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/timeseries_conformal_mapieNaive_turnover.png)
 
 ### 6. Total Turnover (Top 20 Leagues)
-![Total Turnover Top 20 Leagues](plot_images/totalturnover_top20league.png)
+![Total Turnover Top 20 Leagues](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/totalturnover_top20league.png)
 
 ### 7. Weekly Turnover Forecast with AutoARIMA
-![Weekly Turnover Forecast](plot_images/weekly_forecast_turnover_autoarima.png)
+![Weekly Turnover Forecast](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/weekly_forecast_turnover_autoarima.png)
 
 ### 8. Weekly Turnover Aggregation
-![Weekly Turnover Aggregation](plot_images/weeklyturnover_aggr.png)
+![Weekly Turnover Aggregation](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/weeklyturnover_aggre.png)
 
 *Causal Inference: A Future Integration Possibility* 
 
