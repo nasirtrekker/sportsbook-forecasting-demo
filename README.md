@@ -68,7 +68,7 @@ Conformal uncertainty estimation for prediction intervals.
 ![Conformal Prediction Turnover](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/cp_mapie_turnofer_pi90.png)
 
 ### 3. Daily Turnover Aggregation
-![Daily Turnover Aggregation]([plot_images/daily_turnover_aggr.png](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/daily_turnover_agrre.png))
+![Daily Turnover Aggregation](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/daily_turnover_agrre.png)
 
 ### 4. Decomposition of Original Data
 ![ETS Decomposition](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/ETS_decom_originaldata.png)
