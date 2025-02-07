@@ -21,6 +21,7 @@ This repository contains three notebooks and their respective PDF reports focusi
 - **`sportbookprediction_analysis-cpconformal.pdf`**: Report summarizing conformal uncertainty estimation.
 - **`v2_sportbookprediction_automl.pdf`**: Report summarizing machine learning workflows using AutoML tools.
 - **`v3_sportbookprediction_analysis-timeseris.pdf`**: Detailed SARIMA time-series analysis with forecasting results.
+- ****`v4_sportbookprediction_analysis-timeseris.pdf`**: ETS decompsition weekly, monthly, daily & Detailed SARIMA time-series analysis with forecasting results**
 
 ## How to Execute the Notebook
 1. **Clone the Repository**:
@@ -72,7 +73,7 @@ Conformal uncertainty estimation for prediction intervals.
 
 ### 4. Decomposition of Original Data
 ![ETS Decomposition](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/ETS_decom_originaldata.png)
-
+![ETS Decomposition](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/ETS_weeklyseason_decom_originaldata.png)
 ### 5. Conformal Prediction on Time Series
 ![Conformal Prediction on Time Series](https://github.com/nasirtrekker/sportsbook-forecasting-demo/blob/main/plot_image/timeseries_conformal_mapieNaive_turnover.png)
 
